@@ -1,10 +1,13 @@
 _repo: The-Art-of-Story-Telling_61340
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Adams, Professor John
     gutenberg_agent_id: '51370'
     url: http://www.gutenberg.org/2009/agents/51370
+covers:
+- cover_type: archival
+  image_path: 61340-h/images/cover.jpg
 creator:
   author:
     agent_name: Shedlock, Marie L.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1900
     wikipedia: https://en.wikipedia.org/wiki/Marie_L._Shedlock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61340#The-Art-of-Story-Telling
 gutenberg_issued: '2020-02-08'
 gutenberg_type: Text
 identifiers:
